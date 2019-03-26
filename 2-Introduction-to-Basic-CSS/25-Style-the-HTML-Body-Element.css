@@ -1,0 +1,8 @@
+/* all html pages have a body element even if you have not declared it yet */
+
+<style>
+  body {
+    background-color: black;
+  }
+
+</style>
