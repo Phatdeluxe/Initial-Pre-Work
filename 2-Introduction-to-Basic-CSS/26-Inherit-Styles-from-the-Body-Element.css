@@ -1,0 +1,12 @@
+/* everything will inherit the style of you body*/
+
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1> Hello World </h1>
