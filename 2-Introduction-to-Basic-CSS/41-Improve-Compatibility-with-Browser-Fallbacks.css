@@ -1,0 +1,14 @@
+/* because CSS reads top to bottom, you can add a fallback incase the user's browser does not support CSS. This will allow it to use the same value  that your want without having it default to something entirely different*/
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>
