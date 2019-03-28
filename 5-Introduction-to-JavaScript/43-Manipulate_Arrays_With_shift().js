@@ -1,4 +1,4 @@
-// similar to .pop, the .shift function removes the first value in an arrays
+// similar to .pop, the .shift function removes the first value in an array
 
 // Example
 var ourArray = ["Stimpson", "J", ["cat"]];
