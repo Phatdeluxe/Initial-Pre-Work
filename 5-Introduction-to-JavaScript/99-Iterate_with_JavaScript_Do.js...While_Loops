@@ -1,0 +1,12 @@
+// a do while loop will make one iteration before checking to see if a condition is true, then act like a while loop
+
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line.
+
+do {
+  myArray.push(i);
+  i++;
+} while (i < 10);

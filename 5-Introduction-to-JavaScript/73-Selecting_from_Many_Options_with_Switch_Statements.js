@@ -1,3 +1,5 @@
+// switch statments can be used for chosing a case out of many options
+
 function caseInSwitch(val) {
   var answer = "";
   // Only change code below this line
