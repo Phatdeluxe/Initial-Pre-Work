@@ -1,4 +1,4 @@
-// you can import the entire contents of a file using import * as syntax
+// export default syntax allows you to create a fallback if the file is not avaliable. this is generally done when only one value is being exported
 
 "use strict";
-import * as stringCap from "capitalize_strings";
+export default function subtract(x,y) {return x - y;}
